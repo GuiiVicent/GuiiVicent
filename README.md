@@ -1,5 +1,5 @@
 ### Hi there, I'm Guilherme Vicente 👋
-- 🔭 Software Engineering student (2/8 semesters) at Universidade Federal do Pampa, Rio Grande do Sul, Brazil
+- 🔭 Software Engineering student (3/8 semesters) at Universidade Federal do Pampa, Rio Grande do Sul, Brazil
 - 🌱 Currently learning various programming languages
 - 📫 You can reach me at: guiivicent.contato@gmail.com
 
